@@ -1,8 +1,8 @@
 Package: pcrsim
 Type: Package
 Title: Simulation of the forensic DNA process
-Version: 0.1
-Date: 2013-04-06
+Version: 0.1.1
+Date: 2013-05-22
 Author: Oskar Hansson
 Maintainer: Oskar Hansson <oskar.hansson@fhi.no>
 URL: https://github.com/OskarHansson/pcrsim
@@ -18,7 +18,7 @@ Description: pcrsim is a package for simulating the forensic DNA
         is a first version which is still experimental and under
         development.
 License: GPL-2
-Packaged: 2013-04-06 14:41:27 UTC; MadGecko
+Packaged: 2013-05-22 20:35:39 UTC; MadGecko
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2013-04-06 17:35:56
+Date/Publication: 2013-05-23 07:31:11
