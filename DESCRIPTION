@@ -1,8 +1,8 @@
 Package: pcrsim
 Type: Package
 Title: Simulation of the Forensic DNA Process
-Version: 1.0.0
-Date: 2016-04-20
+Version: 1.0.1
+Date: 2016-10-03
 Author: Oskar Hansson
 Maintainer: Oskar Hansson <oskar.hansson@fhi.no>
 URL: https://github.com/OskarHansson/pcrsim
@@ -21,6 +21,6 @@ Description: Simulate the forensic DNA process: generate random or fixed DNA
 License: GPL-2
 RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2016-04-20 10:59:56 UTC; nioh
+Packaged: 2016-10-03 08:22:41 UTC; nioh
 Repository: CRAN
-Date/Publication: 2016-04-21 21:43:57
+Date/Publication: 2016-10-03 13:13:20
